@@ -4,11 +4,19 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 
 ## Table of Contents
 
+- Resources
+
+	- [Nerd Fonts Explorer](https://www.nerdfonts.com/cheat-sheet?set=nf-custom-) - Chose the right powerline symbols!
+
 - Essentials
 
 	- [Neovim](#Neovim)
 
 	- [lazygit](#lazygit)
+
+	- [tmux](#tmux)
+
+	- [ranger](#ranger)
 
 	- [Postman](#Postman)
 
@@ -26,13 +34,21 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 
 My primary weapon of choice for a PDE (Personal Development Environment).
 
-Full config [here](https://github.com/SushritPasupuleti/My-Neovim-Config).
+Full config [here](https://github.com/SushritPasupuleti/My-Neovim-Config), clone into the config folder directly.
 
 ## lazygit
 
 My Git UI of choice. [GitHub Desktop](https://desktop.github.com/) is a close second and more beginner friendly with all the features needed to work on your repo. My lazygit config can be found [here](https://github.com/SushritPasupuleti/Lazygit-Config).
 
 Lazygit is lite and what I use when working remotely.
+
+## tmux
+
+[My config](https://github.com/SushritPasupuleti/My-tmux-Config), simple and fast.
+
+## ranger
+
+[My config](https://github.com/SushritPasupuleti/My-ranger-Config), tuned for MacOS, clone into the config folder directly.
 
 ## Postman
 
