@@ -4,11 +4,11 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 
 ## Table of Contents
 
-- Resources
+- **Resources**
 
 	- [Nerd Fonts Explorer](https://www.nerdfonts.com/cheat-sheet?set=nf-custom-) - Chose the right powerline symbols!
 
-- Essentials
+- **Essentials**
 
 	- [Neovim](#Neovim)
 
@@ -22,13 +22,39 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 
 	- [PgAdmin](#PgAdmin)
 
-- Misc
+- **Misc**
 
 	- [gping](#gping)
 
-	- [timg](#timg)
+	- [oha](#oha)
+
+	- [czg](#czg)
+
+	- [add-gitignore](#add-gitignore)
+
+	- [grex](#grex)
+
+	- [undollar](#undollar)
+
+	- [has](#has)
+
+	- [grip](#grip)
+
+	- [tldr](#tldr)
+
+	- [how2](#how2)
+
+	- [get-port](#get-port)
+
+	- [epy](#epy)
+	
+	- [speedtest-net](#speedtest-net)
 
 	- [browsh](#browsh)
+
+	- [timg](#timg)
+
+	- [mdlt](#mdlt)
 
 ## Neovim
 
@@ -71,4 +97,56 @@ Shows images in full resolution on iTerm2 and Kitty.
 ## [browsh](https://www.brow.sh/)
 
 Renders webpages in your terminal via a firefox backend.
+
+## [oha](https://github.com/hatoo/oha)
+
+Super handy load test utility.
+
+## [add-gitignore](https://github.com/TejasQ/add-gitignore)
+
+Interactive `.gitignore` generator.
+
+## [grex](https://github.com/pemistahl/grex)
+
+Generate REGEX based on given test-cases.
+
+## [speedtest-net](https://github.com/ddsol/speedtest.net)
+
+Speedtest from the terminal.
+
+## [undollar](https://github.com/xtyrrell/undollar)
+
+Ignores `$` when pasting commands into terminal.
+
+## [has](https://github.com/kdabir/has)
+
+Checks if a command is on path.
+
+## [grip](https://github.com/joeyespo/grip)
+
+Preview GitHub Flavoured Markdown in browser.
+
+## [tldr](https://github.com/tldr-pages/tldr)
+
+Essential man pages for all commands. 
+
+## [how2](https://github.com/santinic/how2)
+
+Stackoverflow from the terminal.
+
+## [get-port](https://github.com/sindresorhus/get-port-cli)
+
+Check if a port is unassigned or get an unassigned port.
+
+## [mdlt](https://github.com/metadelta/mdlt)
+
+Complex math in the terminal.
+
+## [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli)
+
+Interactive commit message generation with all the right contexts.
+
+## [epy](https://github.com/wustho/epy)
+
+Read ebooks in the terminal!
 
