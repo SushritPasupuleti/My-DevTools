@@ -18,6 +18,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 
 	- [ranger](#ranger)
 
+	- [Proxmox](#proxmox)
+
 	- [Postman](#Postman)
 
 	- [PgAdmin](#PgAdmin)
@@ -47,6 +49,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 	- [get-port](#get-port)
 
 	- [epy](#epy)
+
+	- [keycastr](#keycastr)
 	
 	- [speedtest-net](#speedtest-net)
 
@@ -75,6 +79,10 @@ Lazygit is lite and what I use when working remotely.
 ## ranger
 
 [My config](https://github.com/SushritPasupuleti/My-ranger-Config), tuned for MacOS, clone into the config folder directly.
+
+## Proxmox
+
+I use Proxmox on a seperate machine to run all my containers and other services. Full setup [here](https://github.com/SushritPasupuleti/My-Proxmox-Setup).
 
 ## Postman
 
@@ -149,4 +157,8 @@ Interactive commit message generation with all the right contexts.
 ## [epy](https://github.com/wustho/epy)
 
 Read ebooks in the terminal!
+
+## [keycastr](https://github.com/keycastr/keycastr)
+
+Visualize keystrokes.
 
