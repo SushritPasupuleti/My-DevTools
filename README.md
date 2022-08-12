@@ -45,6 +45,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 	- [tldr](#tldr)
 
 	- [how2](#how2)
+	
+	- [exa](#exa)
 
 	- [get-port](#get-port)
 
@@ -59,6 +61,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 	- [timg](#timg)
 
 	- [mdlt](#mdlt)
+	
+	- [luarocks](#lua-rocks)
 
 ## Neovim
 
@@ -161,4 +165,12 @@ Read ebooks in the terminal!
 ## [keycastr](https://github.com/keycastr/keycastr)
 
 Visualize keystrokes.
+
+## [exa](#https://the.exa.website/)
+
+Better `ls`
+
+## [lua-rocks](https://github.com/luarocks/luarocks/)
+
+Lua Plugin Manager
 
