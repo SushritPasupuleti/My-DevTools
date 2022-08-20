@@ -30,6 +30,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 
 	- [oha](#oha)
 
+	- [fzf](#fzf)
+
 	- [czg](#czg)
 
 	- [add-gitignore](#add-gitignore)
@@ -39,6 +41,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 	- [undollar](#undollar)
 
 	- [has](#has)
+
+	- [bat](#bat)
 
 	- [grip](#grip)
 
@@ -174,3 +178,10 @@ Better `ls`
 
 Lua Plugin Manager
 
+## [fzf](https://github.com/junegunn/fzf#using-homebrew)
+
+Fuzzy Finder CLI.
+
+## [bat](https://github.com/sharkdp/bat)
+
+`cat` replacement.
