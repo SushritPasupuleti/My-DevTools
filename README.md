@@ -57,6 +57,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 	- [epy](#epy)
 
 	- [keycastr](#keycastr)
+
+	- [alt-tab](#alt-tab)
 	
 	- [speedtest-net](#speedtest-net)
 
@@ -67,6 +69,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 	- [mdlt](#mdlt)
 	
 	- [luarocks](#lua-rocks)
+
+	- [jira-cli](#jira-cli)
 
 ## Neovim
 
@@ -185,3 +189,11 @@ Fuzzy Finder CLI.
 ## [bat](https://github.com/sharkdp/bat)
 
 `cat` replacement.
+
+## [jira-cli](https://github.com/ankitpokhrel/jira-cli)
+
+Jira CLI TUI.
+
+## [alt-tab](https://alt-tab-macos.netlify.app)
+
+Switch between windows on MacOS.
