@@ -6,6 +6,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 
 - **Resources**
 
+	- [iTerm Profile](/Lawliet.json) - My iTerm2 profile, with all the settings I use.
+
 	- [Nerd Fonts Explorer](https://www.nerdfonts.com/cheat-sheet?set=nf-custom-) - Chose the right powerline symbols!
 
 - **Essentials**
@@ -71,6 +73,8 @@ This repo houses a list of all Development Tools I make use of on my setup, and 
 	- [luarocks](#lua-rocks)
 
 	- [jira-cli](#jira-cli)
+
+	- [newman](#newman)
 
 ## Neovim
 
@@ -197,3 +201,7 @@ Jira CLI TUI.
 ## [alt-tab](https://alt-tab-macos.netlify.app)
 
 Switch between windows on MacOS.
+
+## [newman](https://learning.postman.com/docs/running-collections/using-newman-cli/installing-running-newman/)
+
+Postman CLI.
